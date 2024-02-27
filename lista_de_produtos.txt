@@ -1,0 +1,3 @@
+sacola 2 100 
+panos 4 12 
+caixa 5 10 
