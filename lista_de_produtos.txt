@@ -1,3 +1,4 @@
-sacola 2 100 
-panos 4 12 
-caixa 5 10 
+
+{'nome': 'sacola', 'preço': 1.0, 'quantidade': 23}
+{'nome': 'pano', 'preço': 2.0, 'quantidade': 34}
+{'nome': 'balde', 'preço': 12.0, 'quantidade': 5}
